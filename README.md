@@ -43,6 +43,7 @@ open CustomerApp.xcodeproj
 
 По умолчанию симулятор обращается к `http://127.0.0.1:8080/api/v1`. Для
 физического устройства укажите HTTPS URL стенда в `API_BASE_URL` build setting.
+Перед App Store-сборкой добавьте утверждённый логотип в AppIcon asset set.
 
 ## Границы текущего этапа
 
