@@ -1,0 +1,13 @@
+.DS_Store
+.env
+*.local
+node_modules/
+dist/
+coverage/
+.build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+.swiftpm/
+
